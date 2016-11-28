@@ -1,0 +1,5 @@
+
+- clang
+- nasm
+- qemu
+- cross-linker
