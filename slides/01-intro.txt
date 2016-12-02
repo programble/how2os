@@ -1,3 +1,5 @@
 
                                  Hello, world:
                            an x86 "operating system"
+
+                 git clone https://github.com/programble/how2os
